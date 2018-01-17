@@ -1,0 +1,10 @@
+[package]
+name = "gdax-bot"
+version = "0.1.0"
+authors = ["Robby Madruga <robbymadruga@gmail.com>"]
+
+[dependencies]
+reqwest = "0.8.2"
+serde = "1.0.27"
+serde_json = "1.0.9"
+serde_derive = "1.0.27"
